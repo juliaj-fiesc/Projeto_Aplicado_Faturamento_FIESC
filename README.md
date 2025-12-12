@@ -18,8 +18,8 @@ Este repositório reúne o material desenvolvido no Projeto Aplicado do curso de
 - Função em Python para distribuição mensal de faturamento, baseada no comportamento real dos anos anteriores.
 - Modelo preditivo de faturamento utilizando Deep Learning (LSTM), considerando a natureza temporal e sazonal dos dados.
 
-**Estrutura do Repositório.**
-/
+**Estrutura do Repositório.**.
+
 ├── Projeto_Aplicado.ipynb     # Notebook principal com análises, função e modelo LSTM.
 ├── dados_faturamento.xlsx     # Dataset utilizado no projeto.
 ├── Municipios_por_regionalVP.xlsx #Planilha com os municípios por regional.
