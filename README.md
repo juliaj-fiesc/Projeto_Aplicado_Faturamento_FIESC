@@ -1,9 +1,13 @@
 **Projeto Aplicado – Projeção de Faturamento**
 
 Pós-Graduação em Ciência de Dados e Inteligência Artificial – SENAI/SC
+
 Turma: PGCD 2025/1
+
 Professor: Willian Daniel de Matos
+
 Alunos: Adriano Maluf Teixeira, Cristina Aurich, Eliane Nunes da Silva, Eliane Nunes da Silva, Julia de Souza Jorge
+
 
 **Sobre o Projeto**
 
